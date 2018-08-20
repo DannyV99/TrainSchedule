@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.container{
+    width: 100%;
+}
+h2,h3,h4,label{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card{
+    margin-top: 10px;
+}
